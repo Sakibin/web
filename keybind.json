@@ -1,1 +1,14 @@
-[]
+{
+  "users": [
+    {
+      "name": "Hussain",
+      "key": "FZL4567",
+      "status": "active"
+    },
+    {
+      "name": "Sakibin",
+      "key": "FCBC6859",
+      "status": "inactive"
+    }
+  ]
+}
